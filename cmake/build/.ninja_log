@@ -1,0 +1,8 @@
+# ninja log v5
+0	377	1639932923520047143	CMakeFiles/particles.dir/randomize.cpp.o	1f00b32096742017
+0	724	1639932923866717076	CMakeFiles/particles.dir/particle.cu.o	25c63ecb4553ef50
+0	729	1639932923873383805	CMakeFiles/particles.dir/v3.cu.o	ee7b5cd87f0ddadc
+0	737	1639932923880050534	CMakeFiles/particle_test.dir/test.cu.o	62f22a78f149bd1d
+729	759	1639932923903384088	libparticles.a	25ec214d60a8fdc1
+759	792	1639932923936717734	CMakeFiles/particle_test.dir/cmake_device_link.o	b96d2c723cb07fde
+792	842	1639932923986718205	particle_test	a65ead976ab61203

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/eugene/game_of_life/cmake/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/particles.dir/randomize.cpp.o -c /home/eugene/game_of_life/cmake/randomize.cpp",
+  "file": "/home/eugene/game_of_life/cmake/randomize.cpp"
+},
+{
+  "directory": "/home/eugene/game_of_life/cmake/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -g -x cu -dc /home/eugene/game_of_life/cmake/particle.cu -o CMakeFiles/particles.dir/particle.cu.o",
+  "file": "/home/eugene/game_of_life/cmake/particle.cu"
+},
+{
+  "directory": "/home/eugene/game_of_life/cmake/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -g -x cu -dc /home/eugene/game_of_life/cmake/v3.cu -o CMakeFiles/particles.dir/v3.cu.o",
+  "file": "/home/eugene/game_of_life/cmake/v3.cu"
+},
+{
+  "directory": "/home/eugene/game_of_life/cmake/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler -g -x cu -dc /home/eugene/game_of_life/cmake/test.cu -o CMakeFiles/particle_test.dir/test.cu.o",
+  "file": "/home/eugene/game_of_life/cmake/test.cu"
+}
+]
